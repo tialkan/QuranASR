@@ -1,0 +1,16 @@
+# EveryAyah Reciter List
+# Format: folder_name|display_name
+# Source: https://everyayah.com/recitations.html
+
+Minshawi_Murattal_128kbps|Muhammad al-Minshawi (Murattal)
+Husary_128kbps|Mahmoud Khalil al-Husary
+Alafasy_128kbps|Mishary Rashid Alafasy
+Abdurrahmaan_As-Sudais_192kbps|Abdurrahman as-Sudais
+Abdul_Basit_Murattal_192kbps|Abdul Basit Abdus Samad (Murattal)
+Mohammad_al_Tablaway_128kbps|Mohammad al-Tablaway
+Maher_AlMuaiqly_128kbps|Maher Al-Muaiqly
+Hani_Rifai_192kbps|Hani ar-Rifai
+Ibrahim_Akhdar_128kbps|Ibrahim al-Akhdar
+Yasser_Ad-Dussary_128kbps|Yasser Ad-Dussary
+Abdullah_Basfar_192kbps|Abdullah Basfar
+Sahl_Yassin_128kbps|Sahl Yassin

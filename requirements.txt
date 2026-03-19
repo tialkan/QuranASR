@@ -1,0 +1,14 @@
+# Python dependencies for QuranASR training
+# Install: pip install -r requirements.txt
+
+transformers
+datasets
+accelerate
+evaluate
+jiwer
+soundfile
+librosa
+huggingface_hub
+requests
+tqdm
+numpy

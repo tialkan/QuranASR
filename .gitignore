@@ -1,0 +1,36 @@
+# Data (generated at runtime, stored on Google Drive)
+data/audio/
+data/manifest.jsonl
+data/missing_audio.txt
+data/quran.json
+data/hf_dataset/
+
+# Checkpoints
+checkpoints/
+
+# CoreML output
+convert/coreml_output/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+download.log
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Claude / GSD
+.claude/
+.bg-shell/
+.mcp.json
+.gsd/
